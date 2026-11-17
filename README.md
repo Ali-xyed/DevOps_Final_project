@@ -150,9 +150,9 @@ CI job names, in order:
 
 | Author | Reviewer |
 | --- | --- |
-| Hadi | Muneeb |
-| Abdullah | Hadi |
-| Ahmed | Abdullah |
-| Hassaan | Ahmed |
-| Muneeb | Hassaan |
+| Hadi | Gemini |
+| Abdullah | ChatGpt |
+| Ahmed | Mistral |
+| Hassaan | Claude |
+| Muneeb | Copilot |
 # DevOps_Final_project
